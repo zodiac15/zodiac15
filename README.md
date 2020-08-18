@@ -4,14 +4,17 @@ My name is #Ayush and I am a software engineering student currently studying at 
 
 ## &#x1f4c8; Github Stats   
 
-![Ayush's github stats](https://github-readme-stats.vercel.app/api?username=zodiac15&theme=buefy&show_icons=true&hide=contribs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zodiac15&theme=buefy&layout=compact)
-
+<a href="https://github.com/zodiac15/zodiac15">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zodiac15&theme=buefy&layout=compact" />
+</a> 
+<a href="https://github.com/zodiac15/zodiac15">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zodiac15&theme=buefy&show_icons=true&hide=contribs" />
+</a>
+                                                                                                                              
 
 <a href="https://github.com/zodiac15/haemolox-api">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=zodiac15&theme=buefy&repo=haemolox-api" />
 </a>
-   
 <a href="https://github.com/zodiac15/scrapy-news-scraper">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=zodiac15&theme=buefy&repo=scrapy-news-scraper" />
 </a>
