@@ -11,7 +11,7 @@ My name is <b>Ayush</b> and I am a software engineering student currently studyi
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=zodiac15&theme=buefy&show_icons=true&hide=contribs" />
 </a>
                                                                                                                               
-
+<!--
 <a href="https://github.com/zodiac15/haemolox-api">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=zodiac15&theme=buefy&repo=haemolox-api" />
 </a>
@@ -30,7 +30,7 @@ My name is <b>Ayush</b> and I am a software engineering student currently studyi
 <a href="https://github.com/zodiac15/whatsapp-image-classifier">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=zodiac15&theme=buefy&repo=whatsapp-image-classifier" />
 </a>
-<!--
+
 **zodiac15/zodiac15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
