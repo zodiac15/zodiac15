@@ -1,5 +1,5 @@
 ### Hello there! 👋
-My name is <b>Ayush</b> and I am a software engineering student currently studying at Sharda University. Feel free to go through my projects and star them if you like it!
+My name is <b>Ayush</b> and I am a cloud engineer at TCS. Feel free to go through my projects and star them if you like it!
 
 
 ## &#x1f4c8; Github Stats   
