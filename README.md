@@ -7,10 +7,10 @@ My name is <b>Ayush</b> and I am a cloud engineer at TCS. Feel free to go throug
 <a href="https://github.com/zodiac15/zodiac15">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zodiac15&theme=buefy&layout=compact" />
 </a> 
-<a href="https://github.com/zodiac15/zodiac15">
+<!-- <a href="https://github.com/zodiac15/zodiac15">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=zodiac15&theme=buefy&show_icons=true&hide=contribs" />
 </a>
-                                                                                                                              
+                                                                                                                               -->
 <!--
 <a href="https://github.com/zodiac15/haemolox-api">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=zodiac15&theme=buefy&repo=haemolox-api" />
